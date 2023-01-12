@@ -9,7 +9,7 @@ addresses the ability to Mint tokens from the contract (in other words, the role
 addresses to a minting Allow List, so to speak.) Therefore the candidate will be able to authorize their own address, and any other addresses
 they wish to test with, the ability to mint NFTs from the smart contract.
 - Real Vision will provide the candidate with the address of the smart contract on Goerli.
-- The smart contract code can be found in the sub-directories of this repo/directory.
+- The smart contract code can be found in a sub-directory of this repo/directory.
 
 #### What the candidate should create
 
