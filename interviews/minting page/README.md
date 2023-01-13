@@ -22,6 +22,7 @@ NFTs from the smart contract.)
 - The candidate will need to understand the smart contract at a high-level, because they will need to authorize their own address to be
 able to mint NFTs from the smart contract.
 - The candidate should provide Real Vision with a URL where the minting web page can be accessed.
+- The candidate should provide Real Vision with the source code they used to create the web-page (eg. GitHub repo)
 - The web page should be able to connect to a MetaMask wallet.
 - The web page should handle and display simple wallet connection states gracefully (for example, it should display when the wallet is connected/disconnected,
 but it does not necessarily need to handle edge cases like the wallet being connected to the wrong network.)
